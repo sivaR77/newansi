@@ -1,5 +1,5 @@
 ##### Tomcat variables
-java_version: 1.8.0
+java_version: 11.0.13
 tomcat_path: "/opt/tomcat"
 tomcat_version: "8.5.79"
 context_path: "{{tomcat_path}}/webapps/manager/META-INF/"
